@@ -1,3 +1,4 @@
+curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/Teo1230/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1122755057,
   "node_id": "R_kgDOQuvh8Q",

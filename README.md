@@ -14,3 +14,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Usage
 Run the script and provide the required values when prompted.
 
+Minor typo fix
